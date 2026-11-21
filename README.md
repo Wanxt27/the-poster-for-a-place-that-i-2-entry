@@ -1,8 +1,8 @@
 # AURELIA — The Poster for a Place That Isn't There
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![make.fun bounty](https://make.fun/bounty-badge.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
-[![make.fun entry](https://make.fun/entry-badge.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/Wanxt27/the-poster-for-a-place-that-i-2-entry/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/Wanxt27/the-poster-for-a-place-that-i-2-entry/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
 
 A travel poster for **AURELIA — The Floating Isles**, a place that does not
 exist: lush green islands floating above a sea of clouds at golden hour,
